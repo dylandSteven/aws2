@@ -1,0 +1,165 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Quicksand:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap");
+
+
+.navbar{
+   top:0;
+   position:fixed;
+   margin-left: auto; 
+   width: 100%;
+   display: inline-block;
+}
+
+
+#ladoDerecho{
+    float:right;
+   
+}
+
+#footer
+{
+    height: 30vh;
+     background-color: black;
+}
+#porque-usarlo
+{
+    height: 140vh; 
+    background-color: white;
+}
+
+#main {
+  height: 100vh;
+  /* width: 100vw;  */
+  background-image: url(../img/main-background.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 0, 0px;
+  background-size: cover; /*
+*/
+}
+
+.nav-tags {
+  padding-right: 18px;
+  font-size: 17px;
+  color: white;
+  text-decoration: none;
+  font-family: "Quicksand";
+}
+
+.nav-tags:hover {
+  color: darkgrey;
+}
+
+#title {
+  font-family: "Black Ops One";
+  color: white;
+  font-size: 145px;
+}
+
+#desc-eq {
+  font-family: "Quicksand";
+  color: white;
+  font-size: 28px;
+}
+
+#main-center {
+  position: absolute;
+  left: 50%;
+  top: 45%;
+
+  transform: translate(-50%, -50%);
+}
+
+#img-container {
+  text-align: center;
+}
+
+.textito {
+  text-align: center;
+  font-family: "Roboto";
+  font-weight: lighter;
+  color: #13c13a;
+  font-size: 25px;
+  padding-top: 30px;
+}
+
+#textito3 {
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+#textito4 {
+  padding-top: 50px;
+}
+#subtitulo {
+  text-align: center;
+  font-family: "Quicksand";
+  font-weight: bold;
+  font-size: 50px;
+}
+#imgLogo
+{
+    width: 35px;
+}
+#form-control {
+  border-width: 3px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: green;
+
+  text-align: center;
+}
+
+#texto {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 1px;
+  font-size: 25px;
+}
+#iconos2 {
+  color: white;
+  font-size: 60px;
+  margin-top: 40px;
+  margin-left: 50px;
+  padding-left: auto;
+  float: right;
+  margin-right: 40px;
+}
+#iconos {
+  color: white;
+  font-size: 60px;
+  margin-top: 40px;
+  margin-left: 50px;
+  padding-left: auto;
+  float: left;
+}
+
+#arriba {
+  font-family: "Quicksand";
+}
+#arriba:hover {
+  color: greenyellow;
+}
+
+#imgejem {
+  width: 350px;
+  height: 250px;
+  border-color: greenyellow;
+
+
+}
+#inputt {
+  transform: translate(80%, 50%);
+}
+
+#botonEnviar {
+  transform: translate(30%, 50%);
+}
+
+#form-control {
+  height: 40px;
+  width: 300px;
+}
+
+.activar {
+  color: black;
+  background-color: black;
+}

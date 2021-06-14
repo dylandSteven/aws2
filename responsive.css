@@ -1,0 +1,183 @@
+@media (max-width: 575.98px) {
+  #title {
+    font-family: "Black Ops One";
+    color: white;
+    font-size: 80px;
+  }
+
+
+  #quienes-somos-cont {
+    position: relative;
+
+    /*transform: translate(-50%, -50%);
+    */
+  }
+  #imgejem {
+    width: 200px;
+    height: 150px;
+    border-color: rgb(0, 0, 0);
+  }
+  #imgeejm2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  #subtitulo {
+    font-size: 30px;
+  }
+
+  .textito {
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: lighter;
+    color: #13c13a;
+    font-size: 15px;
+    padding-top: 30px;
+  }
+  #textito3 {
+    padding-top: 60px;
+  }
+  #textito4 {
+    padding-top: 0px;
+  }
+  #texto {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 1px;
+    font-size: 20px;
+  }
+
+  #inputt {
+    transform: translate(10%, 10%);
+  }
+
+  #form-control {
+    height: 40px;
+    width: 190px;
+  }
+
+  #botonEnviar {
+    transform: translate(10%, 10%);
+  }
+  #iconos2 {
+    font-size: 40px;
+  }
+  #iconos {
+    font-size: 40px;
+  }
+  .nav-tags
+    {
+            font-size: 10px;
+    }
+    .navbar
+    {
+      
+    }
+}
+
+@media (min-width: 575.99px) and (max-width: 767.98px) {
+}
+@media (min-width: 400px) and (max-width: 600px) {
+
+#title
+{
+    font-size: 60px;
+}
+
+.navbar{
+
+    font-size: 10px;
+    top:0;
+    position:relative;
+    margin-left: auto; 
+    width: 100%;
+    display: inline-block;
+ 
+ 
+    /* position: fixed;
+     */
+ }
+ #imgLogo
+ {
+     position: relative;
+     top: 0%;
+     width: 30px;
+ }
+ #imgejem {
+    width: 150px;
+    height: 100px;
+    border-color: rgb(167, 20, 20);
+  }
+  #imgUsarlo
+  {
+      width: 170px;
+  }
+
+  .textito {
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: lighter;
+    color: #13c13a;
+    font-size: 12px;
+    /*padding-top: 5px;
+  */}
+  #textito1 {
+    padding-top: 0px;
+    padding-bottom:0px;
+    margin-bottom:0px ;
+    padding-right:50px;
+  }
+  #textito2 {
+    padding-top: 0px;
+    padding-bottom: 15px;
+    padding-right: 50px;
+}
+#textito3 {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+}
+#textito4 {
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-right: 50px;    
+}
+ #texto {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 1px;
+    font-size: 13px;
+    margin-left: 50px;
+    margin-right: 50px
+  }
+
+  #porque-usarlo
+  {
+      height: 90vh; 
+      background-color: white;
+  }
+
+  #iconos2 {
+    font-size: 20px;
+  }
+  #iconos {
+    font-size: 20px;
+  }
+
+  #footer
+  {
+      height: 25vh;
+  }
+
+
+
+}
+
+
+@media (min-width: 767.99px) and (max-width: 991.98px) {
+}
+
+@media (min-width: 991.99px) and (max-width: 1199.98px) {
+}
+
+@media (min-width: 0px) {
+}
